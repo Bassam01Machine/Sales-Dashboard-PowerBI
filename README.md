@@ -13,4 +13,7 @@ This project is a **Sales Analytics Dashboard** built using **Power BI**, design
 ## 🛠️ Skills Used:  
 - **Power BI** (Data Modeling, Visualization)  
 - **DAX** (Advanced Calculations)  
-- **Power Query** (Data Transformation)  
+- **Power Query** (Data Transformation)
+
+## Power BI Report Link  
+You can download the report file here: [📊 Download Report]([insert_link_here](https://drive.google.com/file/d/1iTfJdTvAvVplIxgRd6N7I6ZmJJ6XBBUY/view?usp=drive_link))
