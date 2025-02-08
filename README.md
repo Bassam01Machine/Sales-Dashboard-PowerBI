@@ -10,7 +10,7 @@ This project is a **Sales Analytics Dashboard** built using **Power BI**, design
 ✅ Geographical Sales Distribution  
 ✅ Interactive Filters & Slicers  
 
-## 🛠️ Technologies Used:  
+## 🛠️ Skills Used:  
 - **Power BI** (Data Modeling, Visualization)  
 - **DAX** (Advanced Calculations)  
 - **Power Query** (Data Transformation)  
