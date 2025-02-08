@@ -14,5 +14,3 @@ This project is a **Sales Analytics Dashboard** built using **Power BI**, design
 - **Power BI** (Data Modeling, Visualization)  
 - **DAX** (Advanced Calculations)  
 - **Power Query** (Data Transformation)  
-
-[Download Power BI File](https://github.com/username/repository-name/blob/main/your-file.pbix?raw=true)
